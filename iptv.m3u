@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:0,Channel 1
+http://tv.startradio.in/hls/me.m3u8
+#EXTINF:0,Channel 2
+http://tv.startradio.in/hls/dreamzz.m3u8
+#EXTINF:0,Channel 3
+http://tv.startradio.in/hls/kokri.m3u8
