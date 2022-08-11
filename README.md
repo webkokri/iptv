@@ -4,7 +4,7 @@
 
 ###       Click image to open
 
-[<img align="left" alt="IPTV" width="500px" height="281px" src="img/livetv.png" />]
+<img align="left" alt="IPTV" width="500px" height="281px" src="img/livetv.png" />
 
 
 
