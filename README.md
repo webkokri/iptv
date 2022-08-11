@@ -6,10 +6,6 @@
 
 [<img align="left" alt="IPTV" width="500px" height="281px" src="img/livetv.png" />][youtube]
 
-[youtube]: https://github.com/webkokri/iptv
-
-
-[youtube]
 
 
 
