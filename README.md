@@ -4,12 +4,12 @@
 
 ###       Click image to open
 
-[<img align="left" alt="IPTV" width="500px" height="281px" src="img/banner.png" />][youtube]
+[<img align="left" alt="IPTV" width="500px" height="281px" src="img/livetv.png" />][youtube]
 
 [youtube]: https://github.com/webkokri/iptv
 
 
-[<img align="left" alt="qr code" width="281px" height="281px" src="img/qr_c.png" />][youtube]
+[youtube]
 
 
 
